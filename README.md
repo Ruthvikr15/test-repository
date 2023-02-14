@@ -1,6 +1,3 @@
-# test-repository
-This is a test description
+# My first Repository
 
-This is a second edit .
-
-Third edit
+Beginning the Git journey
